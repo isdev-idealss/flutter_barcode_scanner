@@ -1,3 +1,12 @@
+## 2.0.1
+
+* Android: Upgraded Gradle to 8.3 and Android Gradle Plugin to 8.1.0
+* Android: Migrated to new Flutter Gradle plugin system
+* Android: Replaced deprecated jcenter() with mavenCentral()
+* Android: Added namespace support for Android builds
+* Android: Updated build configurations for modern Android development
+* Build: Added Gradle configuration cache support
+
 ## 2.0.0
 
 * Android: Fixes #137 and #132
